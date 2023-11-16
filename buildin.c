@@ -147,9 +147,17 @@ void _unsetenv(char **arv)
 				{
 					environ[i] = environ[i + 1];
 					i++;
+<<<<<<< HEAD
 }
 return;
 }
 }
 }
+=======
+				}
+				return;
+			}
+		}
+	}
+>>>>>>> 7835bb4857b87abd9962b4191ba6750a5cad2f48
 }
