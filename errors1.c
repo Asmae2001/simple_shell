@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-errors1.c
-=======
->>>>>>> 7751ff9e5518bff96fda496522d6538d0ebb56a9
 #include "shell.h"
 
 /**
